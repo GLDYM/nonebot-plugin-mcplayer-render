@@ -59,6 +59,6 @@ _✨ 正版玩家信息查询与皮肤渲染 ✨_
 </details>
 
 ## 使用方法
-- /player <ID or UUID> 查询对应玩家的信息和皮肤预览图
-- /player <ID or UUID> <type> 查询对应玩家的 UUID 与指定的皮肤预览图
+- /player \<ID or UUID\> 查询对应玩家的信息和皮肤预览图
+- /player \<ID or UUID\> \<type\> 查询对应玩家的 UUID 与指定的皮肤预览图
   - 可用参数: raw, body, avatar, default, marching, walking, crouching, crossed, criss_cross, ultimate, isometric, cheering, relaxing, trudging, cowering, pointing, lunging, dungeons, facepalm, sleeping, dead, archer, kicking, mojavatar, reading
