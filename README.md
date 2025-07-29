@@ -2,7 +2,7 @@
     <a href="https://v2.nonebot.dev/store">
     <img src="https://raw.githubusercontent.com/fllesser/nonebot-plugin-template/refs/heads/resource/.docs/NoneBotPlugin.svg" width="310" alt="logo"></a>
 
-# nonebot-plugin-mcplayer
+# nonebot-plugin-mcplayer-render
 
 _✨ 正版玩家信息查询与皮肤渲染 ✨_
 
