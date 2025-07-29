@@ -8,10 +8,10 @@ _✨ 正版玩家信息查询与皮肤渲染 ✨_
 
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/GLDYM/nonebot-plugin-mcplayer.svg" alt="license">
+    <img src="https://img.shields.io/github/license/GLDYM/nonebot-plugin-mcplayer-render.svg" alt="license">
 </a>
-<a href="https://pypi.python.org/pypi/nonebot-plugin-mcplayer">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-mcplayer.svg" alt="pypi">
+<a href="https://pypi.python.org/pypi/nonebot-plugin-mcplayer-render">
+    <img src="https://img.shields.io/pypi/v/nonebot-plugin-mcplayer-render.svg" alt="pypi">
 </a>
 <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="python">
 
@@ -23,7 +23,7 @@ _✨ 正版玩家信息查询与皮肤渲染 ✨_
 <summary>使用 nb-cli 安装</summary>
 在 nonebot2 项目的根目录下打开命令行, 输入以下指令即可安装
 
-    nb plugin install nonebot-plugin-mcplayer
+    nb plugin install nonebot-plugin-mcplayer-render
 
 </details>
 
@@ -34,27 +34,27 @@ _✨ 正版玩家信息查询与皮肤渲染 ✨_
 <details>
 <summary>pip</summary>
 
-    pip install nonebot-plugin-mcplayer
+    pip install nonebot-plugin-mcplayer-render
 </details>
 <details>
 <summary>pdm</summary>
 
-    pdm add nonebot-plugin-mcplayer
+    pdm add nonebot-plugin-mcplayer-render
 </details>
 <details>
 <summary>poetry</summary>
 
-    poetry add nonebot-plugin-mcplayer
+    poetry add nonebot-plugin-mcplayer-render
 </details>
 <details>
 <summary>conda</summary>
 
-    conda install nonebot-plugin-mcplayer
+    conda install nonebot-plugin-mcplayer-render
 </details>
 
 打开 nonebot2 项目根目录下的 `pyproject.toml` 文件, 在 `[tool.nonebot]` 部分追加写入
 
-    plugins = ["nonebot_plugin_mcplayer"]
+    plugins = ["nonebot_plugin_mcplayer_render"]
 
 </details>
 

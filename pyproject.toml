@@ -3,7 +3,7 @@ requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [project]
-name = "nonebot-plugin-mcplayer"
+name = "nonebot-plugin-mcplayer-render"
 version = "0.1.0"
 description = "正版玩家信息查询与皮肤渲染"
 authors = [{ name = "Polaris_Light", email = "995905922@qq.com" }]
@@ -19,7 +19,7 @@ license-files = ["LICEN[CS]E*", "vendored/licenses/*.txt", "AUTHORS.md"]
 keywords = ['mc', 'nonebot']
 
 [project.urls]
-Homepage = "https://github.com/GLDYM/nonebot-plugin-mcplayer"
+Homepage = "https://github.com/GLDYM/nonebot-plugin-mcplayer-render"
 
 [tool.poetry.dependencies]
 nonebot2 = ">=2.2.1"

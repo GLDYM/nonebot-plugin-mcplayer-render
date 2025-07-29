@@ -3,7 +3,7 @@ from nonebot.plugin import PluginMetadata
 __plugin_meta__ = PluginMetadata(
     name="MC玩家查询",
     description="正版玩家信息查询与皮肤渲染",
-    homepage="https://github.com/GLDYM/nonebot_plugin_mcplayer/",
+    homepage="https://github.com/GLDYM/nonebot_plugin_mcplayer_render/",
     usage="""用法：
 1. /player <ID or UUID>
 查询对应玩家的信息和皮肤预览图
