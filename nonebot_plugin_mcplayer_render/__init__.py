@@ -1,7 +1,7 @@
 from nonebot.plugin import PluginMetadata
 
 __plugin_meta__ = PluginMetadata(
-    name="MC玩家查询",
+    name="MC玩家皮肤渲染",
     description="正版玩家信息查询与皮肤渲染",
     homepage="https://github.com/GLDYM/nonebot-plugin-mcplayer-render/",
     usage="""用法：
@@ -13,7 +13,7 @@ __plugin_meta__ = PluginMetadata(
 """,
     type="application",
     supported_adapters={"~onebot.v11"},
-    extra={"author": "Polaris_Light", "version": "1.0.1", "priority": 1},
+    extra={"author": "Polaris_Light", "version": "1.0.2", "priority": 1},
 )
 
 import base64
