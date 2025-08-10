@@ -13,7 +13,7 @@ _✨ 正版玩家信息查询与皮肤渲染 ✨_
 <a href="https://pypi.python.org/pypi/nonebot-plugin-mcplayer-render">
     <img src="https://img.shields.io/pypi/v/nonebot-plugin-mcplayer-render.svg" alt="pypi">
 </a>
-<img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="python">
+<img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="python">
 
 </div>
 

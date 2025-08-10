@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [project]
 name = "nonebot-plugin-mcplayer-render"
-version = "1.0.2"
+version = "1.0.3"
 description = "正版玩家信息查询与皮肤渲染"
 authors = [{ name = "Polaris_Light", email = "995905922@qq.com" }]
 dependencies = [
@@ -12,7 +12,7 @@ dependencies = [
     "nonebot-adapter-onebot>=2.0.0",
     "aiohttp>=3.8.0",
 ]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 readme = "README.md"
 license = "MIT"
 license-files = ["LICEN[CS]E*", "vendored/licenses/*.txt", "AUTHORS.md"]

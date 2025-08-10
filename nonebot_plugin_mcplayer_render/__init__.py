@@ -13,7 +13,7 @@ __plugin_meta__ = PluginMetadata(
 """,
     type="application",
     supported_adapters={"~onebot.v11"},
-    extra={"author": "Polaris_Light", "version": "1.0.2", "priority": 1},
+    extra={"author": "Polaris_Light", "version": "1.0.3", "priority": 1},
 )
 
 import base64
